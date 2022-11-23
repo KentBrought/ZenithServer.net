@@ -1,0 +1,13 @@
+function LinkCopy() {
+  
+  var TextCopy = document.getElementById("TextInput");
+
+  TextCopy.select();
+  TextCopy.setSelectionRange(0, 99999); // For mobile devices
+
+   // Copy the text inside the text field
+  navigator.clipboard.writeText(TextCopy.value);
+
+  // Alert the copied text
+  alert("Copied the link: " + TextCopy.value);
+}
