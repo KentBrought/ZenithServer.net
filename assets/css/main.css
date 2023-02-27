@@ -1705,7 +1705,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 1125px) {
+		@media screen and (max-width: 736px) {
 
 			.row {
 				display: flex;
@@ -3788,7 +3788,7 @@ input, select, textarea {
 		display: none;
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 1125px) {
 
 		/* Basic */
 
