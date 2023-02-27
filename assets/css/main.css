@@ -162,10 +162,10 @@ input, select, textarea {
     font-weight: 800;
     color: lightsalmon;
     text-shadow:
-    -1px -1px 0 #332e26,
-    1px -1px 0 #332e26,
-    -1px 1px 0 #332e26,
-    1px 1px 0 #332e26; 
+    -2px -2px 0 #332e26,
+    2px -2px 0 #332e26,
+    -2px 2px 0 #332e26,
+    2px 2px 0 #332e26; 
 }
 
 	strong, b {
