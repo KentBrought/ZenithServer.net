@@ -2921,6 +2921,19 @@ input, select, textarea {
 			box-shadow: none;
 			color: #ffffff !important;
 		} 
+		input[type="submit"].fit:hover,
+		input[type="reset"].fit:hover,
+		input[type="button"].fit:hover,
+		.button.fit:hover {
+			background-color: #ff9f0a;
+		}
+
+		input[type="submit"].fit:active,
+		input[type="reset"].fit:active,
+		input[type="button"].fit:active,
+		.button.primary:active {
+			background-color: #fab346;
+		}
 
 		input[type="submit"].small,
 		input[type="reset"].small,
