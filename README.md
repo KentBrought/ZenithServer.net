@@ -4,8 +4,6 @@
 ![Minecraft: Java Edition](https://img.shields.io/badge/Minecraft-Java%20Edition-5C913B?logo=minecraft&logoColor=white)
 ![Server IP: ZenithServer.net](https://img.shields.io/badge/Server%20IP-ZenithServer.net-5C913B?logo=minecraft&logoColor=white)
 
-<img alt="Minecraft" src="https://img.shields.io/badge/-_-?logo=minecraft&label=&labelColor=5C913B&color=5C913B" height="18" />
-
 **This repository hosts the static website for the Zenith *Minecraft: Java Edition* server.  
 The game server is permanently shut down and its code remains closed source to protect sensitive user data.**
 
